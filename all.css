@@ -73,7 +73,7 @@ img{
 }
 
 .navbar h1 a{
-	background-image: url(/images/logo_w.png);
+	background-image: url(images/logo_w.png);
 	background-repeat: no-repeat;
 	text-indent: 101%;
 	overflow: hidden;
@@ -115,7 +115,7 @@ img{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-image: url(/images/header_desktop.png);
+	background-image: url(images/header_desktop.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 30% ;
@@ -187,7 +187,7 @@ img{
 	}
 
 	.banner{
-		background-image: url(/images/Welcome\ -\ header_mobile.png);
+		background-image: url(images/Welcome\ -\ header_mobile.png);
 	}
 
 	.banner-content span{
